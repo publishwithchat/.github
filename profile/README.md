@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/publishwithchat/publishwithchat/main/brand/banners/linkedin-banner-1584x396.png">
-    <img alt="Publish with chat: your website, made by asking" src="https://raw.githubusercontent.com/publishwithchat/publishwithchat/main/brand/banners/linkedin-banner-1584x396-light.png" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/publishwithchat/publishwithchat/9a8ff69da950e3c8a3b1019dfeda5ddf0471a2bd/brand/banners/linkedin-banner-1584x396.png">
+    <img alt="Publish with chat: your website, made by asking" src="https://raw.githubusercontent.com/publishwithchat/publishwithchat/9a8ff69da950e3c8a3b1019dfeda5ddf0471a2bd/brand/banners/linkedin-banner-1584x396-light.png" width="100%">
   </picture>
 </p>
 
@@ -10,6 +10,10 @@
 Tell Claude, ChatGPT or Gemini about your business. It builds the site, you check a free preview, and it goes online at your own web address. Later, ask it to change anything and every update is kept as a version you can go back to.
 
 **[publishwith.chat](https://publishwith.chat)** · **[Add it to your chatbot](https://github.com/publishwithchat/publishwithchat/blob/main/docs/connect.md)** · **[Prompts that work](https://github.com/publishwithchat/publishwithchat/blob/main/docs/prompts.md)**
+
+<p align="center">
+  <img alt="The Publish with chat home page: a chat asking for a bakery website, and the finished site beside it, live" src="https://raw.githubusercontent.com/publishwithchat/publishwithchat/9a8ff69da950e3c8a3b1019dfeda5ddf0471a2bd/docs/screenshots/home-desktop.png" width="720">
+</p>
 
 ### Start in a minute
 
