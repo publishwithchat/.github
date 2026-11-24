@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/publishwithchat/publishwithchat/9a8ff69da950e3c8a3b1019dfeda5ddf0471a2bd/brand/banners/linkedin-banner-1584x396.png">
-    <img alt="Publish with chat: your website, made by asking" src="https://raw.githubusercontent.com/publishwithchat/publishwithchat/9a8ff69da950e3c8a3b1019dfeda5ddf0471a2bd/brand/banners/linkedin-banner-1584x396-light.png" width="100%">
+    <img alt="Publish with chat: your website, made by chatting" src="https://raw.githubusercontent.com/publishwithchat/publishwithchat/9a8ff69da950e3c8a3b1019dfeda5ddf0471a2bd/brand/banners/linkedin-banner-1584x396-light.png" width="100%">
   </picture>
 </p>
 
